@@ -32,4 +32,4 @@ async def on_member_join(member):
             await chenel.send(f"{member.name}#{member.discriminator} was kicked from server because he don't have the role")
             
         
-client.run("ODkzMzQ4ODEwOTUxMTA2NTYw.YVaJ6g.XYXAT5OGhZ-G_sNBfZ1QmFPXqeo")
+client.run("")
